@@ -1,0 +1,270 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Mar 2023 21:03:51 at https://aura.org.nz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aura.org.nz/ -O1 "C:\Users\shaun\Documents\_Websites\zArchive\AURA_OLD\AURA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:03:54	Warning: 	Note: due to https://aura.org.nz remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:04:09	Error: 	"Method Not Allowed" (405) at link https://aura.org.nz/xmlrpc.php (from https://aura.org.nz/)
+21:04:10	Warning: 	Moved Permanently for s.w.org/robots.txt
+21:04:10	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+21:04:10	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+21:04:17	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2
+21:04:17	Warning: 	File has moved from https://aura.org.nz/?page_id=2 to https://aura.org.nz/
+21:04:17	Warning: 	Moved Permanently for c0.wp.com/robots.txt
+21:04:17	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/robots.txt and https://c0.wp.com/robots.txt
+21:04:17	Warning: 	Warning moved treated for c0.wp.com/robots.txt (real one is https://c0.wp.com/robots.txt)
+21:04:17	Warning: 	Moved Permanently for c0.wp.com/
+21:04:17	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/ and https://c0.wp.com/
+21:04:17	Warning: 	File has moved from c0.wp.com/ to https://c0.wp.com/
+21:06:53	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2364
+21:06:53	Warning: 	File has moved from https://aura.org.nz/?page_id=2364 to https://aura.org.nz/club-info/
+21:06:55	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2336
+21:06:55	Warning: 	File has moved from https://aura.org.nz/?page_id=2336 to https://aura.org.nz/what-we-do/
+21:06:56	Error: 	"Not Found" (404) at link https://aura.org.nz/what-we-do/aura.org.nz/contact (from https://aura.org.nz/what-we-do/)
+21:06:56	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2383
+21:06:56	Warning: 	File has moved from https://aura.org.nz/?page_id=2383 to https://aura.org.nz/documentation/
+21:06:57	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2335
+21:06:57	Warning: 	File has moved from https://aura.org.nz/?page_id=2335 to https://aura.org.nz/vex/
+21:06:59	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.vexrobotics.com/media/wysiwyg/FullField-Crop.png (from https://aura.org.nz/vex/)
+21:07:27	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2391
+21:07:27	Warning: 	File has moved from https://aura.org.nz/?page_id=2391 to https://aura.org.nz/sponsors/
+21:07:29	Error: 	"Forbidden" (403) at link https://www.theiet.org/media/2563/untitled-7.jpg (from https://aura.org.nz/sponsors/)
+21:07:30	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2334
+21:07:30	Warning: 	File has moved from https://aura.org.nz/?page_id=2334 to https://aura.org.nz/contact/
+21:07:40	Warning: 	Moved Permanently for https://aura.org.nz/?page_id=2499
+21:07:40	Warning: 	File has moved from https://aura.org.nz/?page_id=2499 to https://aura.org.nz/signup/
+21:07:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=2557
+21:07:40	Warning: 	File has moved from https://aura.org.nz/?p=2557 to https://aura.org.nz/introductory-workshop-slides-2022/
+21:08:51	Warning: 	Moved Permanently for https://aura.org.nz/?p=2538
+21:08:51	Warning: 	File has moved from https://aura.org.nz/?p=2538 to https://aura.org.nz/were-upping-our-social-media-presence/
+21:08:54	Warning: 	Moved Permanently for https://aura.org.nz/?p=2516
+21:08:54	Warning: 	File has moved from https://aura.org.nz/?p=2516 to https://aura.org.nz/combat-robotics-2021/
+21:09:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.vexrobotics.com/media/wysiwyg/FullField-Crop.png (from https://aura.org.nz/vex/)
+21:11:06	Warning: 	Moved Permanently for https://aura.org.nz/?p=2510
+21:11:06	Warning: 	File has moved from https://aura.org.nz/?p=2510 to https://aura.org.nz/workshops-2021/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2452
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2452 to https://aura.org.nz/aura-workshops-2020/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2275
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2275 to https://aura.org.nz/2018-mini-robot-rumble/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2268
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2268 to https://aura.org.nz/2018-new-zealand-vex-robotics-national-championship/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2266
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2266 to https://aura.org.nz/2017-asia-pacific-robotics-championship/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2223
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2223 to https://aura.org.nz/mini-robot-rumble-2017/
+21:11:07	Warning: 	Moved Permanently for https://aura.org.nz/?p=2210
+21:11:07	Warning: 	File has moved from https://aura.org.nz/?p=2210 to https://aura.org.nz/vex-u-world-championships-2017/
+21:14:22	Error: 	"Receive Time Out" (-2) after 2 retries at link https://www.vexrobotics.com/media/wysiwyg/FullField-Crop.png (from https://aura.org.nz/vex/)
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=2196
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=2196 to https://aura.org.nz/vex-2017-nationals/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=2166
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=2166 to https://aura.org.nz/battlebots-2016-application/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=2097
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=2097 to https://aura.org.nz/robogals-aura-joint-workshop/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=2066
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=2066 to https://aura.org.nz/auckland-kiwi-challenge-season-missile-mania-concludes/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1957
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1957 to https://aura.org.nz/nothing-but-net-ball-trajectory-equations-with-air-resistance/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1948
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1948 to https://aura.org.nz/auras-2015-design-notebooks/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1908
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1908 to https://aura.org.nz/aura-returns-triumphant-from-louisville/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1884
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1884 to https://aura.org.nz/auras-trip-to-worlds-in-kentucky/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1875
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1875 to https://aura.org.nz/auras-2015-vex-u-reveal-video/
+21:14:22	Warning: 	Moved Permanently for https://aura.org.nz/?p=1869
+21:14:22	Warning: 	File has moved from https://aura.org.nz/?p=1869 to https://aura.org.nz/how-to-do-a-good-turn/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1812
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1812 to https://aura.org.nz/worlds-timetable-for-spectators-in-nz/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=2059
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=2059 to https://aura.org.nz/auras-2015-educational-video-contest-submission/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1519
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1519 to https://aura.org.nz/second-auckland-ladder-scrimmage-5-july/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1484
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1484 to https://aura.org.nz/first-auckland-ladder-scrimmage/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1472
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1472 to https://aura.org.nz/kiwi-challenge-auckland-regionals/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1463
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1463 to https://aura.org.nz/aura-vs-aut-newbie-challenge/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1460
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1460 to https://aura.org.nz/kiwi-challenge-scrimmage-at-kristin-school/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1453
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1453 to https://aura.org.nz/kiwi-challenge-scrimmage-at-long-bay-college/
+21:14:23	Error: 	"Not Found" (404) at link https://www.kiwibots.co.nz/KIWICHALLENGEFILEs/tic-tac-topple_release2-hl.pdf (from https://aura.org.nz/kiwi-challenge-scrimmage-at-long-bay-college/)
+21:14:23	Error: 	"Not Found" (404) at link puu.sh/8yyYF.jpg (from https://aura.org.nz/toss-up-worlds-viewing/)
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1431
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1431 to https://aura.org.nz/toss-up-worlds-viewing/
+21:14:23	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://cdn.cutestpaw.com/wp-content/uploads/2012/08/l-Penguin-pose.jpg (from https://aura.org.nz/toss-up-worlds-viewing/)
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1246
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1246 to https://aura.org.nz/aura-featured-in-craccum/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=217
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=217 to https://aura.org.nz/close-up-bravo-v1-0/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=207
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=207 to https://aura.org.nz/team-update/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=201
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=201 to https://aura.org.nz/end-of-january-update/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=188
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=188 to https://aura.org.nz/build-session-photos/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=184
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=184 to https://aura.org.nz/kristin-invitational-112010-results/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=171
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=171 to https://aura.org.nz/competitive-position-report/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=125
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=125 to https://aura.org.nz/upper-north-island-regionals/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=95
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=95 to https://aura.org.nz/kristin-invitational-scrimmage/
+21:14:23	Error: 	"Not Found" (404) at link https://aura.org.nz/media (from https://aura.org.nz/kristin-invitational-scrimmage/)
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1233
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1233 to https://aura.org.nz/nz-nationals-2013/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1222
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1222 to https://aura.org.nz/chairpersons-report-2012-agm/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1216
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1216 to https://aura.org.nz/first-lego-league-fll-nationals-2012/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1226
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1226 to https://aura.org.nz/head-referees-feedback-from-asia-pacific-2012/
+21:14:23	Error: 	"Not Found" (404) at link https://dl.dropbox.com/u/64849289/Asia Pacific 2012 - Comments from Head Ref.pdf (from https://aura.org.nz/head-referees-feedback-from-asia-pacific-2012/)
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1211
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1211 to https://aura.org.nz/smc-pneumatics-college-scrimmage-dec-2012/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1207
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1207 to https://aura.org.nz/robonz-nov-2012/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1203
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1203 to https://aura.org.nz/big-boys-toys-scrimmages/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1193
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1193 to https://aura.org.nz/first-tech-challenge-ftc-pilot/
+21:14:23	Warning: 	Moved Permanently for https://aura.org.nz/?p=1190
+21:14:23	Warning: 	File has moved from https://aura.org.nz/?p=1190 to https://aura.org.nz/august-sack-attack-scrimmage/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1187
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1187 to https://aura.org.nz/aura-quiz-night-fundraiser/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1179
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1179 to https://aura.org.nz/july-sack-attack-scrimmage/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1176
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1176 to https://aura.org.nz/rookie-workshops/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1171
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1171 to https://aura.org.nz/june-2012-first-lego-league-fll/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1163
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1163 to https://aura.org.nz/workshop-information-at-university-of-auckland/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1158
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1158 to https://aura.org.nz/june-sack-attack-scrimmage/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1150
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1150 to https://aura.org.nz/aura-workshops-2/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1141
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1141 to https://aura.org.nz/shifting-x-drive/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1137
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1137 to https://aura.org.nz/why-is-x-drive-faster/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1128
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1128 to https://aura.org.nz/world-champs-press-release/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1122
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1122 to https://aura.org.nz/a-wild-double-cheese-appears/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1120
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1120 to https://aura.org.nz/a-wild-dragon-appears/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1118
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1118 to https://aura.org.nz/a-wild-woodpecker-appears/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1114
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1114 to https://aura.org.nz/a-wild-quetzalcoatlus-appears/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1107
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1107 to https://aura.org.nz/world-champs-results/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1104
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1104 to https://aura.org.nz/vexforum-nametag-generator/
+21:14:24	Warning: 	Moved Permanently for https://aura.org.nz/?p=1101
+21:14:24	Warning: 	File has moved from https://aura.org.nz/?p=1101 to https://aura.org.nz/java-cad/
+21:14:25	Error: 	"Not Found" (404) at link https://puu.sh/kj0K (from https://aura.org.nz/java-cad/)
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1094
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1094 to https://aura.org.nz/nz-nationals-final-day/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1091
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1091 to https://aura.org.nz/nz-nationals-day-one/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1087
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1087 to https://aura.org.nz/autodesk-inventor-digital-prototyping-challenge-winners/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1078
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1078 to https://aura.org.nz/uoa-engineering-orientation/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1075
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1075 to https://aura.org.nz/pinehurst-sports-expo/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1063
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1063 to https://aura.org.nz/first-lego-league-fll/
+21:14:25	Warning: 	Moved Permanently for https://aura.org.nz/?p=1046
+21:14:25	Warning: 	File has moved from https://aura.org.nz/?p=1046 to https://aura.org.nz/december-aura-scrimmage/
+21:14:26	Warning: 	Note: due to https://www.vexforum.com remote robots.txt rules, links beginning with these path will be forbidden: /admin/, /auth/, /assets/browser-update*.js, /email/, /session, /user-api-key, /*?api_key*, /*?*api_key*, /badges, /u/, /my, /search, /tag/*/l, /g, /t/*/*.rss, /c/*.rss (see in the options to disable this)
+21:14:26	Error: 	"Not Found" (404) at link https://www.vexforum.com/attachment.php?attachmentid=5029&stc=1&d=1322028626 (from https://aura.org.nz/december-aura-scrimmage/)
+21:14:26	Warning: 	Moved Permanently for https://aura.org.nz/?p=1031
+21:14:26	Warning: 	File has moved from https://aura.org.nz/?p=1031 to https://aura.org.nz/android-gateway-scoring-app/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=1019
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=1019 to https://aura.org.nz/chairpersons-report-2011-agm/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=991
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=991 to https://aura.org.nz/chain-lift/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=972
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=972 to https://aura.org.nz/introduction-to-python/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=968
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=968 to https://aura.org.nz/introduction-to-skillbot/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=966
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=966 to https://aura.org.nz/introduction-to-arthritis/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=955
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=955 to https://aura.org.nz/introduction-to-matlab/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=950
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=950 to https://aura.org.nz/introduction-to-assembly/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=928
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=928 to https://aura.org.nz/photos-from-the-robot-world-cup/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=918
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=918 to https://aura.org.nz/introduction-to-java/
+21:14:39	Warning: 	Moved Permanently for https://aura.org.nz/?p=912
+21:14:39	Warning: 	File has moved from https://aura.org.nz/?p=912 to https://aura.org.nz/robot-world-cup-final-day/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=783
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=783 to https://aura.org.nz/september-rosmini-gateway-scrimmage/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=690
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=690 to https://aura.org.nz/aura-quiz-glenfield-college/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=688
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=688 to https://aura.org.nz/first-gateway-scrimmage-2011/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=672
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=672 to https://aura.org.nz/six-bar-linkages/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=651
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=651 to https://aura.org.nz/conclusion-of-aura-workshops/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=609
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=609 to https://aura.org.nz/fush-and-chups/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=586
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=586 to https://aura.org.nz/aura-workshops/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=581
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=581 to https://aura.org.nz/clips-from-world-championships/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=568
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=568 to https://aura.org.nz/public-media-coverage/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=559
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=559 to https://aura.org.nz/world-championships-final-update/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=557
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=557 to https://aura.org.nz/world-championships-day-two/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=554
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=554 to https://aura.org.nz/world-championships-first-day-update/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=542
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=542 to https://aura.org.nz/getting-ready-for-worlds/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=534
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=534 to https://aura.org.nz/2011-worlds-re-reveal/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=520
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=520 to https://aura.org.nz/worlds-reveal-3/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=501
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=501 to https://aura.org.nz/new-zealand-nationals/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=272
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=272 to https://aura.org.nz/strategydesign-session/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=269
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=269 to https://aura.org.nz/bravo-and-zulu-update/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=256
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=256 to https://aura.org.nz/2nd-kristin-invitational-scrimmage/
+21:14:40	Error: 	"Not Found" (404) at link https://www.vexforum.com/attachment.php?s=fd017f86229828afee4970532a5daf5e&attachmentid=3745&d=1297483172 (from https://aura.org.nz/2nd-kristin-invitational-scrimmage/)
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?name=testbot
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?name=testbot to https://aura.org.nz/testbot/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=240
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=240 to https://aura.org.nz/computer-aided-design/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=231
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=231 to https://aura.org.nz/meeting-minutes-archive/
+21:14:40	Warning: 	Moved Permanently for https://aura.org.nz/?p=223
+21:14:40	Warning: 	File has moved from https://aura.org.nz/?p=223 to https://aura.org.nz/rotary-science-forum/
+21:14:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdn.cutestpaw.com/wp-content/uploads/2012/08/l-Penguin-pose.jpg (from https://aura.org.nz/toss-up-worlds-viewing/)
+21:14:41	Warning: 	Moved Permanently for https://aura.org.nz/?p=905
+21:14:41	Warning: 	File has moved from https://aura.org.nz/?p=905 to https://aura.org.nz/robot-world-cup-day-two/
+21:14:41	Warning: 	Moved Permanently for https://aura.org.nz/?p=900
+21:14:41	Warning: 	File has moved from https://aura.org.nz/?p=900 to https://aura.org.nz/robot-world-cup-day-one/
+21:14:41	Warning: 	Moved Permanently for https://aura.org.nz/?p=895
+21:14:41	Warning: 	File has moved from https://aura.org.nz/?p=895 to https://aura.org.nz/october-pinehurst-scrimmage/
+21:14:41	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://cdn.cutestpaw.com/wp-content/uploads/2012/08/l-Penguin-pose.jpg (from https://aura.org.nz/toss-up-worlds-viewing/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 50 seconds : 849 links scanned, 710 files written (91664701 bytes overall) [82401232 bytes received at 126771 bytes/sec], 13416566 bytes transferred using HTTP compression in 202 files, ratio 26%, 3.8 requests per connection
+(12 errors, 247 warnings, 0 messages)

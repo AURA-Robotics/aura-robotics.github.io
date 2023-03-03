@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.theiet.org	TRUE	/	FALSE	1999999999	visid_incap_1915448	Y91rtmesT5yv3u/y4yWL+oaqAWQAAAAAQUIPAAAAAABwj9HkFVTtUd4XRsw0K4yS
+.theiet.org	TRUE	/	FALSE	1999999999	incap_ses_364_1915448	EL/+cPs3YT2ylFl77zANBYeqAWQAAAAAwb/gDk/H7mjX0GNpQIopFg==
+www.theiet.org	TRUE	/	FALSE	1999999999	SameSite	None
+
